@@ -1,7 +1,7 @@
 # for-loop-activities-c-
 for loops activity on c++
 These are the problems
-
+Owner of uploaded files above: Dango, Eric T.
 1.Write a program that will compute the product of two positive integers (firstno and secondno) by adding them repeatedly. 
   This means adding firstno to itself secondno times.
 
